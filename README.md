@@ -15,7 +15,7 @@ https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfL
 -   
 
 ### Connect with me:
-Open in new tab: </br>
+Check my other profiles(you may wanna open in new tab): </br>
 <p align="left">
   <a href="https://www.linkedin.com/in/salman-ahmad-425331175/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -35,6 +35,4 @@ Open in new tab: </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanrajpuat&show_icons=true&locale=en&layout=compact" alt="salmanrajpuat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanrajpuat&show_icons=true&locale=en" alt="salmanrajpuat" /></p>
 
-<p><img align="center" src="https://leetcode.com/u/SalmanRajput/" alt="salmanrajput" /></p>
