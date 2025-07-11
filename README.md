@@ -17,7 +17,8 @@ https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfL
 <a href="https://www.linkedin.com/in/salman-ahmad-425331175/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman ahmad rajput" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@momentswithsalman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Salman" height="30" width="40" /></a>
 
-  <a href="https://leetcode.com/u/SalmanRajput/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Salman" height="30" width="40" /></a>
+  </br>
+  <a href="https://leetcode.com/u/SalmanRajput/" target="blank" alt="Salman's Leetcode Profile"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
