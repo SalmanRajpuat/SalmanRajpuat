@@ -12,22 +12,18 @@ https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfL
 
 - ⚡ Fun fact **I love doing coding on leetcode and dont wanna break the streak.I keep it continue even when i am hell sick.**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/salman-ahmad-425331175/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@momentswithsalman" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/SalmanRajput/" target="_blank" rel="noopener noreferrer">
-  <img align="center"
-       src="https://upload.wikimedia.org/wikipedia/commons/9/97/LeetCode_logo_black.png"
-       alt="LeetCode"
-       height="30"
-       width="40" />
-</a>
 </p>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SalmanRajput/)
+
 
 
 
