@@ -6,13 +6,11 @@ https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfL
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanrajpuat&label=Profile%20views&color=0e75b6&style=flat" alt="salmanrajpuat" /> </p>
 
-- 💬 Ask me about **c++ , Software construction ,Web development, Machine learning**
+💬 Ask me about **c++ , Software construction ,Web development, Machine learning**
 
-- 📫 How to reach me **salmanwzb@gmail.com**
+📫 How to reach me **salmanwzb@gmail.com**
 
-- ⚡ Fun fact **I love doing coding on leetcode and dont wanna break the streak.I keep it continue even when i am hell sick.**
-
--   
+⚡ Fun fact **I love doing coding on leetcode and dont wanna break the streak.I keep it continue even when i am hell sick.**   
 
 ### Connect with me:
 Check my other profiles(you may wanna open in new tab): </br>
