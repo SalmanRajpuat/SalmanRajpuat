@@ -25,4 +25,4 @@ https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfL
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanrajpuat&show_icons=true&locale=en" alt="salmanrajpuat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanrajpuat&" alt="salmanrajpuat" /></p>
+<p><img align="center" src="https://leetcode.com/u/SalmanRajput/" alt="salmanrajput" /></p>
