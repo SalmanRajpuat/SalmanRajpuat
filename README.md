@@ -13,7 +13,7 @@ https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfL
 ⚡ Fun fact **I love doing coding on leetcode and dont wanna break the streak.I keep it continue even when i am hell sick.**   
 
 ### Connect with me:
-Check my other profiles(you may wanna open in new tab): </br>
+Check my other profiles (you may wanna open them in a new tab): </br>
 <p align="left">
   <a href="https://www.linkedin.com/in/salman-ahmad-425331175/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
