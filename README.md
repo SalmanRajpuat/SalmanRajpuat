@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Salman Ahmad</h1>
-<h3 align="center">Machine learning Engineer and Web developer from Pakistan</h3>
+<h3 align="center">Software Developer from Pakistan</h3>
 
 https://as1.ftcdn.net/v2/jpg/06/01/17/18/1000_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanrajpuat&label=Profile%20views&color=0e75b6&style=flat" alt="salmanrajpuat" /> </p>
 
-- 💬 Ask me about **c++ , Software construction , Machine learning , Web development**
+- 💬 Ask me about **c++ , Software construction ,Web development, Machine learning**
 
 - 📫 How to reach me **salmanwzb@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I love doing coding on leetcode and dont wanna break the streak.I keep it continue even when i am hell sick.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salman ahmad rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman ahmad rajput" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hoop scoop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hoop scoop" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salman-ahmad-425331175/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman ahmad rajput" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@momentswithsalman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Salman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
